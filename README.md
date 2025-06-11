@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "Stat 210a: Advanced Theory of Statistics"
+title: "Stat 210a: Theoretical Statistics"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: "Stat 210a: Advanced Theory of Statistics"
+  name: "Stat 210a: Theoretical Statistics"
 ---
 
-# Stat 210a: Advanced Theory of Statistics
+# Stat 210a: Theoretical Statistics
 {: .mb-2 }
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2025](fall-2025)
 1. [Fall 2024](fall-2024)
 
 
@@ -24,12 +25,12 @@ UC Berkeley
 
 ## Overview
 
-A survey of mathematical statistics: in particular both small and large sample theorems of hypothesis testing, point estimation, and confidence intervals with applications to topics such as exponential families, univariate and multivariate linear models and nonparametric inference. 
+An introduction to mathematical statistics, covering both frequentist and Bayesian aspects of modeling, inference, and decision-making. Topics include statistical decision theory; point estimation; minimax and admissibility; Bayesian methods; exponential families; hypothesis testing; confidence intervals; small and large sample theory; and M-estimation. 
 
 ## Logistics
 
-Three hours of Lecture per week for 15 weeks.
+Three hours of lecture per week. 
 
 ## Prerequisites
 
-A year of upper division probability and statistics; a course in linear algebra. 
+Linear algebra, real analysis, and a year of upper division probability and statistics. 

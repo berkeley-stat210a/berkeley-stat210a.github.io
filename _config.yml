@@ -13,9 +13,9 @@
 # you will see them accessed via \{\{ site.title \}\}, \{\{ site.github_repo \}\}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via \{\{ site.myvariable \}\}.
-title: "Stat 210a: Advanced Theory of Statistics"
+title: "Stat 210a: Theoretical Statistics"
 tagline: Course Overview
-description: "A survey of mathematical statistics: in particular both small and large sample theorems of hypothesis testing, point estimation, and confidence intervals with applications to topics such as exponential families, univariate and multivariate linear models and nonparametric inference. "
+description: "An introduction to mathematical statistics, covering both frequentist and Bayesian aspects of modeling, inference, and decision-making. Topics include statistical decision theory; point estimation; minimax and admissibility; Bayesian methods; exponential families; hypothesis testing; confidence intervals; small and large sample theory; and M-estimation. "
 author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat210a.berkeley.edu'
@@ -25,7 +25,7 @@ logo: 'resources/logo.png'
 ga_tracking: "G-B8G2041HSB"
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.7.0
+remote_theme: just-the-docs/just-the-docs@v0.10.1
 color_scheme: light
 search_enabled: true
 heading_anchors: true
